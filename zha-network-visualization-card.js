@@ -211,6 +211,5 @@ class ZHANetworkVisualizationCard extends HTMLElement {
 }
 
 customElements.define(
-  "zha-network-visualization-card",
-  ZHANetworkVisualizationCard
+  "zha-network-visualization-card",  ZHANetworkVisualizationCard
 );
